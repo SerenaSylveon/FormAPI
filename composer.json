@@ -1,0 +1,9 @@
+{
+    "name": "sylveon/form-api",
+    "autoload": {
+        "psr-4": {
+            "Sylveon\\FormApi\\": "src/"
+        }
+    },
+    "require": {}
+}
